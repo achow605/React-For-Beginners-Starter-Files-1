@@ -1,0 +1,24 @@
+|CTAG_1627355512_1046675734_17100_0
+|s
+cd C:\Users\Anthony\Documents\Github Repositories
+|s
+git clone https://github.com/wesbos/React-For-Beginners-Starter-Files.git
+lls
+|s
+cd React-For-Beginners-Starter-Files\
+|s
+|s
+|d catch-of-the-day\
+npm i
+|s
+|pm install
+npm install
+|pm start
+|s
+|s
+cd ..
+ls
+clear
+cd catch-of-the-day\
+npm run
+npm start
